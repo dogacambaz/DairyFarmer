@@ -1,8 +1,10 @@
-package com.doga.dairyfarmer;
+package com.doga.dairyfarmer.activities;
 
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
+
+import com.doga.dairyfarmer.R;
 
 public class MainActivity extends AppCompatActivity {
 
